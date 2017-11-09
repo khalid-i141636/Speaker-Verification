@@ -1,10 +1,9 @@
-# Project Title
-
-One Paragraph of project description goes here
+# Speaker Verification
+Given an audio file containing the speach of a person, our goal is to verify the speaker using deep learning model.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Since we are working on audio data, it terns out that the Convolutional Neural Networks give better results.
 
 ### Prerequisites
 
@@ -72,9 +71,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Khalid** - *Initial work* - [khalid-i141636](https://github.com/khalid-i141636)
+* **Zeeshan Ali** - *Contributor* - [zeeshana1i](https://github.com/zeeshana1i)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/khalid-i141636/Speaker-Verification/graphs/contributors) who participated in this project.
 
 ## License
 
